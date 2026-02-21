@@ -4,7 +4,6 @@
 
 Адрес веб-сайта                                     http://e.briop.ru                                                                  
 Имя пользователя                                   yurivikt                                     
-
 Пароль                                                      Yurivikt#3
 
 
