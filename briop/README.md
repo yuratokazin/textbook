@@ -1,3 +1,15 @@
+Адрес веб-сайта                                     http://my.briop.ru                                                                  
+Имя пользователя                                   yurivikt                                     
+
+Пароль                                                      4w:pd-SCteJ:k=B
+
+Адрес веб-сайта                                     http://e.briop.ru                                                                  
+Имя пользователя                                   yurivikt                                     
+
+Пароль                                                      Yurivikt#3
+
+
+
 http://e.briop.ru/course/view.php?id=1380
 
 http://my.briop.ru/attestaciya/registraciya/
